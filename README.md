@@ -6,10 +6,10 @@ Libraries used:
 - mockk for mocking
 
 Quick summary of the app:
-I followed data/domain/ui app structure and used MVVM for the UI.
-Unit tests have been made for all classes and I've also included an instrumented test. There wasn't
+- I followed data/domain/ui app structure and used MVVM for the UI.
+- Unit tests have been made for all classes and I've also included an instrumented test. There wasn't
 any navigation in the app so there wasn't much instrumented testing other than basic text checks.
-I used the default UI theme since in a real project I'd be working with the company's design theme
+- I used the default UI theme since in a real project I'd be working with the company's design theme
 but I applied sufficient padding to still make the list easily readable.
 
 
